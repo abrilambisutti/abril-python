@@ -1,0 +1,31 @@
+#TRABAJO PRACTICO 5
+"""Ejercicio 1: """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
